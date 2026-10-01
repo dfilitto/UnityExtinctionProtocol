@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/dfilitto/UnityExtinctionProtocol/refs/heads/main/Capa.jpg)
+
 # Extinction Protocol
 
 Uma chuva atípica de asteroides atingiu o coração da metrópole de New Aethel, reduzindo bairros inteiros a escombros. No entanto, o verdadeiro pesadelo começou quando a poeira cósmica impregnada nos meteoros reanimou os mortos. Em poucas horas, a cidade transformou-se em um inferno dominado por hordas mutantes e agressivas.
